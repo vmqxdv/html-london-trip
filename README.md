@@ -1,8 +1,8 @@
 # Esercizio: Viaggio a Londra
 **Nome in codice:** html-london-trip
 
-## Descrizione Esercizio:
-Riprodurre il layout dell'immagine* fornita dal professore, aiutandoci con i tag imparati stamani (25 Gennaio 2025).
+### Descrizione Esercizio:
+Riprodurre il layout dell'[immagine fornita dal professore](https://booleancareers.slack.com/files/U04EUT27BJ4/F089YD6LSQ6/viaggio-londra.jpg), aiutandoci con i tag imparati stamani (25 Gennaio 2025).
 
 ## Struttura
 - **index.html**: La pagina principale del progetto.
@@ -15,7 +15,7 @@ Riprodurre il layout dell'immagine* fornita dal professore, aiutandoci con i tag
 - Aggiunta di questo file `README.md` con le informazioni riguardanti il progetto.
 - Validazione HTML completata con successo tramite il validatore ufficiale.
 
-## Stato del progetto:
+### Stato del progetto:
 ✅ Esercizio 
 ✅ Bonus  
 
