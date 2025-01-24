@@ -9,5 +9,6 @@ Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto
 3. Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :)
 4. All'interno della cartella html-london-trip, create una sottocartella img nella quale inserirete le immagini necessarie.
 Le prime 3 immagini in alto sono nel file [img.zip](https://booleancareers.slack.com/files/U04EUT27BJ4/F089QFR11ST/img.zip) allegato, per le ultime 2 immagini in basso utilizzeremo i path assoluti, i link delle immagini sono:
+
 ![Immagine 1](https://www.abta.com/sites/default/files/styles/large/public/media/uploads/london-400x400-compressor_0.jpg)
 ![Immagine 2](https://imgc.allpostersimages.com/img/posters/evening-tower-bridge-and-river-thames-london_u-L-P2QVZJ0.jpg?artPerspective=n)
