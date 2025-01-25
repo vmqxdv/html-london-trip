@@ -20,6 +20,7 @@ Riprodurre il layout dell'[immagine fornita dal professore](https://booleancaree
 ✅ Bonus  
 
 ## Risultato:
-![immagine fornita dal professore](https://booleancareers.slack.com/files/U04EUT27BJ4/F089YD6LSQ6/viaggio-londra.jpg) ![Risultato](https://imgur.com/a/rRqqtBi)
+![Immagine fornita dal professore](https://booleancareers.slack.com/files/U04EUT27BJ4/F089YD6LSQ6/viaggio-londra.jpg)
+![Risultato di index.html](https://imgur.com/a/rRqqtBi)
 
 **Completato il:** 24/01/2025
