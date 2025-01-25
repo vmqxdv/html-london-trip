@@ -17,10 +17,6 @@ Riprodurre il layout dell'[immagine fornita dal professore](https://booleancaree
 
 ### Stato del progetto:
 ✅ Esercizio 
-✅ Bonus  
-
-## Risultato:
-![Immagine fornita dal professore](https://booleancareers.slack.com/files/U04EUT27BJ4/F089YD6LSQ6/viaggio-londra.jpg)
-![Risultato di index.html](https://imgur.com/a/risultato-esercizio-html-london-trip-rRqqtBi)
+✅ Bonus 
 
 **Completato il:** 24/01/2025
